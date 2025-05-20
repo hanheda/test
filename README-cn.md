@@ -2,6 +2,10 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
+
+## 分支测试
+branch a;
+
 ## GoGoCode 是什么？
 
 [English version of README](README.md)
